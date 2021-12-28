@@ -11,6 +11,8 @@ namespace WebApplication1
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+            string password="zxaQas12$1";
+            
             int N = 50;
             table1.Text = "<table id=\"board\" cellspacing=0 cellpadding=0>";
             for (int i = 0; i < N; ++i)
