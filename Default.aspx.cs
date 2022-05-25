@@ -13,7 +13,7 @@ namespace WebApplication1
         {
             string a_password="zxaQas12$6";
 
-            string password="zxaQas12$1";
+            string password="zxaQas12$2";
             
             string password2="zxaVas12$1";
 
@@ -34,5 +34,13 @@ namespace WebApplication1
             table1.Text += "</table>";
 
         }
+    }
+    
+    public class Person 
+    {
+        public int PhoneNumber { get; set; }
+        public string FullName { get; set; }
+        public string CardDetails { get; set; }
+        public string CreditCardNumber { get; set; }
     }
 }
