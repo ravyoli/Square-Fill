@@ -19,6 +19,10 @@ namespace WebApplication1
             
             
             string password4="ZxaVas12$9";
+            
+            
+            string s3_bucket_token="XQMOED0FK1ENBT4UHG3TY5BZL6FH7EGT8YOPSDF9NPSDU0FKT0WEUR0LKG0SDDFT"
+            string s3_bucket_token2="XQMOED0FK1ENBT4UHG3TY5BZL6FH7EGT8YOPSDF9NPSDU0FKT0WEUR0LKG0SABCD"
            
             
             int N = 50;
