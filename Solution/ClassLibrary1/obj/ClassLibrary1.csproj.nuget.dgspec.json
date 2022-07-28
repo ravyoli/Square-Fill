@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/yoels/Documents/GitHub/Square-Fill/Solution/ClassLibrary1/ClassLibrary1.csproj": {}
+  },
+  "projects": {
+    "/Users/yoels/Documents/GitHub/Square-Fill/Solution/ClassLibrary1/ClassLibrary1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/yoels/Documents/GitHub/Square-Fill/Solution/ClassLibrary1/ClassLibrary1.csproj",
+        "projectName": "ClassLibrary1",
+        "projectPath": "/Users/yoels/Documents/GitHub/Square-Fill/Solution/ClassLibrary1/ClassLibrary1.csproj",
+        "packagesPath": "/Users/yoels/.nuget/packages/",
+        "outputPath": "/Users/yoels/Documents/GitHub/Square-Fill/Solution/ClassLibrary1/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/yoels/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/apiiro/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
