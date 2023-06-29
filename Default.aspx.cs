@@ -11,6 +11,8 @@ namespace WebApplication1
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+            string another_password="zxaQas12$2";
+            
             string password="zxaQas12$1";
             
             int N = 52;
