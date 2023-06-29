@@ -11,7 +11,7 @@ namespace WebApplication1
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            string password="zxaQas12$1";
+            string b_password="zxaQas12$4";
             
             int N = 52;
             table1.Text = "<table id=\"board\" cellspacing=0 cellpadding=0>";
