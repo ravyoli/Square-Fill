@@ -13,7 +13,7 @@ namespace WebApplication1
         {
             string password1="zxaQas12$1";
 
-            string password2="zxcFD$$#12!";
+            string password3="zxsd3FD$$#12!";
 
             int N = 52;
             table1.Text = "<table id=\"board\" cellspacing=0 cellpadding=0>";
